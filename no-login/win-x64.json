@@ -1,6 +1,6 @@
 {
-  "version": "0.8.3",
-  "url": "https://github.com/Juxtalabs/pbj-browser-releases/releases/download/v0.8.3-no-login/PBJBrowserNoLoginSetup.exe",
-  "sha256": "b33b2296ad9eb57a48899f93e81ea801e65314a0f4a057cfca12b380c15ec4a7",
-  "notes": "- Fixes a problem where updates did not always install.\n- Updates now show progress while they install."
+  "version": "0.8.4",
+  "url": "https://github.com/Juxtalabs/pbj-browser-releases/releases/download/v0.8.4-no-login/PBJBrowserNoLoginSetup.exe",
+  "sha256": "0a878e3942731f9fd511753763239ab854ebdf4a1d5bb752a2c7b7fdee5dd4d9",
+  "notes": "- Fixes the \"Continue where you left off\" switch not appearing to turn on or off when\n  you clicked it.\n- Settings and History tabs are now reopened along with your other tabs."
 }
