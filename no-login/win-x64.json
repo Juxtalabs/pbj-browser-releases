@@ -1,6 +1,6 @@
 {
-  "version": "0.8.0",
-  "url": "https://github.com/Juxtalabs/pbj-browser-releases/releases/download/v0.8.0-no-login/PBJBrowserNoLoginSetup.exe",
+  "version": "0.8.1",
+  "url": "https://github.com/Juxtalabs/pbj-browser-releases/releases/download/v0.8.1-no-login/PBJBrowserNoLoginSetup.exe",
   "sha256": "",
-  "notes": "First tester release."
+  "notes": "Test release: exercises the update path."
 }
