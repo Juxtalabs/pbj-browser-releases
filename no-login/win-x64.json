@@ -1,6 +1,6 @@
 {
-  "version": "0.8.2",
-  "url": "https://github.com/Juxtalabs/pbj-browser-releases/releases/download/v0.8.2-no-login/PBJBrowserNoLoginSetup.exe",
-  "sha256": "8b492714423f825c6b30219e061bd4715ea8fcf7e14092afe77047a2859ca4d4",
-  "notes": "PBJ Browser (No Login) 0.8.2"
+  "version": "0.8.3",
+  "url": "https://github.com/Juxtalabs/pbj-browser-releases/releases/download/v0.8.3-no-login/PBJBrowserNoLoginSetup.exe",
+  "sha256": "b33b2296ad9eb57a48899f93e81ea801e65314a0f4a057cfca12b380c15ec4a7",
+  "notes": "- Fixes a problem where updates did not always install.\n- Updates now show progress while they install."
 }
