@@ -1,6 +1,6 @@
 {
-  "version": "0.8.1",
-  "url": "https://github.com/Juxtalabs/pbj-browser-releases/releases/download/v0.8.1-no-login/PBJBrowserNoLoginSetup.exe",
-  "sha256": "2fc21b7a99b294ebc51b350375f39369d69db22f478b6c2b4e595c796bf367d1",
-  "notes": "PBJ Browser (No Login) 0.8.1"
+  "version": "0.8.2",
+  "url": "https://github.com/Juxtalabs/pbj-browser-releases/releases/download/v0.8.2-no-login/PBJBrowserNoLoginSetup.exe",
+  "sha256": "8b492714423f825c6b30219e061bd4715ea8fcf7e14092afe77047a2859ca4d4",
+  "notes": "PBJ Browser (No Login) 0.8.2"
 }
