@@ -1,6 +1,6 @@
 {
-  "version": "0.8.5",
-  "url": "https://github.com/Juxtalabs/pbj-browser-releases/releases/download/v0.8.5-no-login/PBJBrowserNoLoginSetup.exe",
-  "sha256": "3a594ebae449bd956aa970210e2c65a61d1867463a13d188ad7ab31c6debe198",
-  "notes": "- New tabs open focused on the address bar, ready for immediate typing.\n- The address bar now accepts Google searches, not only web addresses.\n- Fixed the address bar appearing cut off at the top on Windows.\n- Improved compatibility with Google services.\n- General improvements and bug fixes."
+  "version": "0.8.6",
+  "url": "https://github.com/Juxtalabs/pbj-browser-releases/releases/download/v0.8.6-no-login/PBJBrowserNoLoginSetup.exe",
+  "sha256": "5906521524f679b053693f12bca2a88cfc16f811d41b0e48df9901426637b912",
+  "notes": "- Fixes Google sign-in (Gmail, YouTube, Drive).\n- General improvements and bug fixes."
 }
