@@ -1,0 +1,6 @@
+{
+  "version": "0.8.10",
+  "url": "https://github.com/Juxtalabs/pbj-browser-releases/releases/download/v0.8.10-no-login/PBJ-Browser-0.8.10-mac-universal.zip",
+  "sha256": "68b9978ede2bf478410049c11fab8013106404e13745c35cb5a5570b334a41ee",
+  "notes": "- Mac: now runs natively on both Intel and Apple Silicon, with automatic updates like the Windows version.\n- General improvements and bug fixes."
+}
