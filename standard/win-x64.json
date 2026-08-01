@@ -1,6 +1,6 @@
 {
-  "version": "0.8.13",
-  "url": "https://github.com/Juxtalabs/pbj-browser-releases/releases/download/v0.8.13/PBJBrowserSetup.exe",
-  "sha256": "5ac5a584f76147ba5ff8ac1a7ef63f130e22de682e1f6fe024db4be49d9eb503",
-  "notes": "- Sejati Browser can now update itself with one click, even on managed computers.\n- General improvements and bug fixes."
+  "version": "0.8.14",
+  "url": "https://github.com/Juxtalabs/pbj-browser-releases/releases/download/v0.8.14/PBJBrowserSetup.exe",
+  "sha256": "4fe31ace6c9d4c3705d8adcd23ec29806e93b176a12d6349a1754ec7a1133529",
+  "notes": "- General improvements and bug fixes."
 }
