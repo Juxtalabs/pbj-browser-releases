@@ -1,6 +1,6 @@
 {
-  "version": "0.8.15",
-  "url": "https://github.com/Juxtalabs/pbj-browser-releases/releases/download/v0.8.15/PBJBrowserSetup.exe",
-  "sha256": "85535315d0fc0d97958b821bc411baf72b67288c75cdce18c89dc7e7b68917dd",
-  "notes": "- Fixes one-click updates failing to replace files on some machines.\n- General improvements and bug fixes."
+  "version": "0.8.16",
+  "url": "https://github.com/Juxtalabs/pbj-browser-releases/releases/download/v0.8.16/PBJBrowserSetup.exe",
+  "sha256": "5928762e2a0d70702ff2ad47d37000fae720e963d821806f6ab1177877f4d044",
+  "notes": "- Fixes the browser not closing when you choose \"Restart to update\", so updates apply reliably.\n- General improvements and bug fixes."
 }
