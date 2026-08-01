@@ -1,6 +1,6 @@
 {
-  "version": "0.8.19",
-  "url": "https://github.com/Juxtalabs/pbj-browser-releases/releases/download/v0.8.19/PBJBrowserSetup.exe",
-  "sha256": "3f27dd24a2b8153d07cae0c1f11fdbdd80b77b49eb0ebd15889da1d4d5eb845d",
+  "version": "0.8.20",
+  "url": "https://github.com/Juxtalabs/pbj-browser-releases/releases/download/v0.8.20/PBJBrowserSetup.exe",
+  "sha256": "1e1aa231819146505b3fab75af45ddf811de02c09849cf6ba610376ee29d38e4",
   "notes": "- General improvements and bug fixes."
 }
