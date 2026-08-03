@@ -1,6 +1,6 @@
 {
-  "version": "0.8.9",
-  "url": "https://github.com/Juxtalabs/pbj-browser-releases/releases/download/v0.8.9-no-login/PBJBrowserNoLoginSetup.exe",
-  "sha256": "8bd7912ee27789bb1923fad19dbb1942a6a9e12aaa76ecdcb422fd33c120e9c2",
-  "notes": "- Fixes Inaproc sign-in getting stuck on the \"verify you are human\" check.\n- General improvements and bug fixes."
+  "version": "0.8.21",
+  "url": "https://github.com/Juxtalabs/pbj-browser-releases/releases/download/v0.8.21/PBJBrowserNoLoginSetup.exe",
+  "sha256": "99149edffc73f8e81eb5d4fd0673a4de573ddcff110618e72efde110de456482",
+  "notes": "- General improvements and bug fixes."
 }
