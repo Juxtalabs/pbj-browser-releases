@@ -1,6 +1,6 @@
 {
-  "version": "0.8.21",
-  "url": "https://github.com/Juxtalabs/pbj-browser-releases/releases/download/v0.8.21/PBJBrowserSetup.exe",
-  "sha256": "8ce1fbbcdb8305d545dfe7eafcac4fee57d5897409c8f02755399a2a3e58d7ee",
-  "notes": "- General improvements and bug fixes."
+  "version": "0.8.22",
+  "url": "https://github.com/Juxtalabs/pbj-browser-releases/releases/download/v0.8.22/PBJBrowserSetup.exe",
+  "sha256": "4816e3698d599ae8044b2e0694198b0e83a9230121ece8058b4e3076ec95e3c0",
+  "notes": "- Sensitive information on a page is now hidden behind \u201c...\u201d. Tap it to reveal the value for a few seconds."
 }
