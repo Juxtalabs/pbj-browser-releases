@@ -1,6 +1,6 @@
 {
-  "version": "0.8.22",
-  "url": "https://github.com/Juxtalabs/pbj-browser-releases/releases/download/v0.8.22/PBJBrowserSetup.exe",
-  "sha256": "4816e3698d599ae8044b2e0694198b0e83a9230121ece8058b4e3076ec95e3c0",
-  "notes": "- Sensitive information on a page is now hidden behind \u201c...\u201d. Tap it to reveal the value for a few seconds."
+  "version": "0.8.23",
+  "url": "https://github.com/Juxtalabs/pbj-browser-releases/releases/download/v0.8.23/PBJBrowserSetup.exe",
+  "sha256": "cefca575874cf348e50b8a325392dac52ff2e661d376a5fe3b7242eefbdfe233",
+  "notes": "- Google Search should stop asking you to prove you are not a robot.\n- Keyboard shortcuts can now be allowed or blocked by group in your organisation's policy.\n- Hidden information stays hidden on long pages \u2014 it could previously stop working part-way down.\n- Toolbar icons are sharp on high-resolution and scaled displays.\n- The browser is steadier when a second screen is plugged in or unplugged.\n- If the browser ever closes unexpectedly, it now tells your administrator what happened \u2014 including what Windows itself recorded about it.\n- If the window ever stops responding, that is now reported too, with how long it lasted."
 }
