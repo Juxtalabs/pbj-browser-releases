@@ -1,6 +1,6 @@
 {
-  "version": "0.8.24",
-  "url": "https://github.com/Juxtalabs/pbj-browser-releases/releases/download/v0.8.24/PBJBrowserSetup.exe",
-  "sha256": "4f470f9941de003ff0b455422ae40da1cccad5dbaa0db7714f33ccd62a540e9d",
-  "notes": "- Fixes signing in to Google accounts.\n- General improvements and bug fixes."
+  "version": "0.8.25",
+  "url": "https://github.com/Juxtalabs/pbj-browser-releases/releases/download/v0.8.25/PBJBrowserSetup.exe",
+  "sha256": "f60d43fe49433a67dd17f0f025a719b4bff993cda5180aa4911ff909bf592997",
+  "notes": "- Fixes sensitive information that could stay visible on some pages, including AI overviews and other content that loads in gradually.\n- General improvements and bug fixes."
 }
