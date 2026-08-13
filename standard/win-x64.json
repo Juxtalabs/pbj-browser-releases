@@ -1,6 +1,6 @@
 {
-  "version": "0.8.27",
-  "url": "https://github.com/Juxtalabs/pbj-browser-releases/releases/download/v0.8.27/PBJBrowserSetup.exe",
-  "sha256": "b7408f06ac1d594a237eb18ce0c40c6f7b5ea399a5f9b270b3575f1a17c51af6",
-  "notes": "- Live video, video calls, and streaming now play correctly (for example YouTube Live, Google Meet, and Twitch).\n- Improves stability during video playback and video calls."
+  "version": "0.8.28",
+  "url": "https://github.com/Juxtalabs/pbj-browser-releases/releases/download/v0.8.28/PBJBrowserSetup.exe",
+  "sha256": "c5efeb9c30589f131c572c8012139bc7a467c5723268a7b3a56d19dfccad9ce1",
+  "notes": "- PDF files now open and can be read directly in the browser (saving and printing stay disabled during a session)."
 }
