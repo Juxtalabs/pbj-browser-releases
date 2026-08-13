@@ -1,6 +1,6 @@
 {
-  "version": "0.8.25",
-  "url": "https://github.com/Juxtalabs/pbj-browser-releases/releases/download/v0.8.25/PBJBrowserSetup.exe",
-  "sha256": "f60d43fe49433a67dd17f0f025a719b4bff993cda5180aa4911ff909bf592997",
-  "notes": "- Fixes sensitive information that could stay visible on some pages, including AI overviews and other content that loads in gradually.\n- General improvements and bug fixes."
+  "version": "0.8.26",
+  "url": "https://github.com/Juxtalabs/pbj-browser-releases/releases/download/v0.8.26/PBJBrowserSetup.exe",
+  "sha256": "b7e50db58690549f80e9f949ac5e415c453c90a1dd8cd8263941327f7519c321",
+  "notes": "This update includes general improvements and bug fixes."
 }
