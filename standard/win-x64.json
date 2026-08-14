@@ -1,6 +1,6 @@
 {
-  "version": "0.8.30",
-  "url": "https://github.com/Juxtalabs/pbj-browser-releases/releases/download/v0.8.30/PBJBrowserSetup.exe",
-  "sha256": "41cc3d9ae30d2f4b5427916d63c780b9f9c5c4335f16dc9a47ea7262e6cc3d88",
-  "notes": "This update includes general improvements and bug fixes."
+  "version": "0.8.31",
+  "url": "https://github.com/Juxtalabs/pbj-browser-releases/releases/download/v0.8.31/PBJBrowserSetup.exe",
+  "sha256": "931f3baf21b2131df0f4fd429bcbeefa65e74aaa27a38a3d586b9306de52bb4b",
+  "notes": "- Fixes a display problem from the last update: the sign-in screen's update button and the app's pop-up messages are back to their normal appearance."
 }
