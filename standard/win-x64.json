@@ -1,6 +1,6 @@
 {
-  "version": "0.8.28",
-  "url": "https://github.com/Juxtalabs/pbj-browser-releases/releases/download/v0.8.28/PBJBrowserSetup.exe",
-  "sha256": "c5efeb9c30589f131c572c8012139bc7a467c5723268a7b3a56d19dfccad9ce1",
-  "notes": "- PDF files now open and can be read directly in the browser (saving and printing stay disabled during a session)."
+  "version": "0.8.29",
+  "url": "https://github.com/Juxtalabs/pbj-browser-releases/releases/download/v0.8.29/PBJBrowserSetup.exe",
+  "sha256": "945bc68a43612c60d58825e96558cfbce49c876fa282d635774e792f73c6f0cb",
+  "notes": "This update includes general improvements and bug fixes."
 }
