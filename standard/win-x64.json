@@ -1,6 +1,6 @@
 {
-  "version": "0.8.31",
-  "url": "https://github.com/Juxtalabs/pbj-browser-releases/releases/download/v0.8.31/PBJBrowserSetup.exe",
-  "sha256": "931f3baf21b2131df0f4fd429bcbeefa65e74aaa27a38a3d586b9306de52bb4b",
-  "notes": "- Fixes a display problem from the last update: the sign-in screen's update button and the app's pop-up messages are back to their normal appearance."
+  "version": "0.8.32",
+  "url": "https://github.com/Juxtalabs/pbj-browser-releases/releases/download/v0.8.32/PBJBrowserSetup.exe",
+  "sha256": "d9d2442914647b57c7ca4bff4fc6cd22427e4ffebec7d6ce35a5adf575104f70",
+  "notes": "- New: press Ctrl+F to find text on the current page.\n- New: an optional \"Remember department code and username\" tick on the sign-in screen so you don't have to retype them — your password is never saved.\n- The browser now holds the full screen more reliably after a screen lock or user switch, so it can't be moved aside during a session.\n- Updates that were already downloaded are no longer downloaded again, and apply automatically the next time the browser is opened."
 }
