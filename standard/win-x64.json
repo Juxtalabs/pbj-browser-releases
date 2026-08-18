@@ -1,6 +1,6 @@
 {
-  "version": "0.8.34",
-  "url": "https://github.com/Juxtalabs/pbj-browser-releases/releases/download/v0.8.34/PBJBrowserSetup.exe",
-  "sha256": "c951bf45fac20f3d80ea4a15f1634b17ac3169d7f43731ffa305736b5bb81464",
-  "notes": "- Fixes a problem where a downloaded update could not be installed and the sign-in screen showed \"update check failed\". Updates now install correctly."
+  "version": "0.9.0",
+  "url": "https://github.com/Juxtalabs/pbj-browser-releases/releases/download/v0.9.0/PBJBrowserSetup.exe",
+  "sha256": "74ff2a347f3e1990f3ed49d99e9003a6a3518707f2e4bae67b1c1c98a4651512",
+  "notes": "This update includes general improvements and bug fixes."
 }
