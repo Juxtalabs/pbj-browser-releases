@@ -1,6 +1,6 @@
 {
-  "version": "0.9.0",
-  "url": "https://github.com/Juxtalabs/pbj-browser-releases/releases/download/v0.9.0/PBJBrowserSetup.exe",
-  "sha256": "74ff2a347f3e1990f3ed49d99e9003a6a3518707f2e4bae67b1c1c98a4651512",
+  "version": "0.9.1",
+  "url": "https://github.com/Juxtalabs/pbj-browser-releases/releases/download/v0.9.1/PBJBrowserSetup.exe",
+  "sha256": "62a139890aa3d8ec9cf5d68ecf958f900c5f705cf0f0fd9169db2bf15f3a4edc",
   "notes": "This update includes general improvements and bug fixes."
 }
